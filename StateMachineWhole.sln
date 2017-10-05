@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{30C92292-5394-415E-A14F-A05E7ED33715}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransitionTable", "TransitionTable\TransitionTable.csproj", "{A6451FBC-E670-4D3F-8C9B-AF5C5C5B7009}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateTemplate", "StateTemplate\StateTemplate.csproj", "{12123508-C1AD-4943-A1C8-1929BC786738}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30C92292-5394-415E-A14F-A05E7ED33715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C92292-5394-415E-A14F-A05E7ED33715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C92292-5394-415E-A14F-A05E7ED33715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C92292-5394-415E-A14F-A05E7ED33715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6451FBC-E670-4D3F-8C9B-AF5C5C5B7009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6451FBC-E670-4D3F-8C9B-AF5C5C5B7009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6451FBC-E670-4D3F-8C9B-AF5C5C5B7009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6451FBC-E670-4D3F-8C9B-AF5C5C5B7009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12123508-C1AD-4943-A1C8-1929BC786738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12123508-C1AD-4943-A1C8-1929BC786738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12123508-C1AD-4943-A1C8-1929BC786738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12123508-C1AD-4943-A1C8-1929BC786738}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
